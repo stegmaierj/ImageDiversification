@@ -14,7 +14,7 @@ Please refer to `demo_code.ipynb` for a brief overview of the functionality and 
 If you are using the code, please consider citing the work mentioned below. The application method and the data used in this work are publicly available at ([Code-Paper](https://arxiv.org/abs/2105.00794), [Code-Repository](https://github.com/stegmaierj/Cellpose3D)) and (real [Data-Paper](https://www.pnas.org/doi/10.1073/pnas.1616768113), [Data-Repository](https://www.repository.cam.ac.uk/handle/1810/262530))/(synthetic [Data-Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260509), [Data-Repository](https://osf.io/e6n7b/)).
 
 ```
-@article{eschweiler2022diversify,
+@inproceeding{eschweiler2022diversify,
   title={Probabilistic Image Diversification to Improve Segmentation in 3D Microscopy Image Data},
   author={Dennis Eschweiler and Justus Schock and Johannes Stegmaier},
   journal={MICCAI International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI)},
