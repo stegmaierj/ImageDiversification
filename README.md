@@ -17,7 +17,7 @@ If you are using the code, please consider citing the work mentioned below. The 
 @inproceeding{eschweiler2022diversify,
   title={Probabilistic Image Diversification to Improve Segmentation in 3D Microscopy Image Data},
   author={Dennis Eschweiler and Justus Schock and Johannes Stegmaier},
-  journal={MICCAI International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI)},
+  booktitle={MICCAI International Workshop on Simulation and Synthesis in Medical Imaging (SASHIMI)},
   year={2022}
 }
 ```
